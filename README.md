@@ -2,7 +2,7 @@ Karma Firewall is the safest, most trusted Android Firewall.
 
 
 <img src="https://github.com/StarGW-net/karma-firewall/blob/main/metadata/en-US/images/phoneScreenshots/1.png?raw=true"
-     border="1"
+     style="border: 3px solid red"
      alt="Karma Firewall"
      height="320">
 
